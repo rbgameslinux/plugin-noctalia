@@ -1,0 +1,46 @@
+{
+  "plugins": [
+    {
+      "id": "clipboard-Rb",
+      "name": "Clipboard Rb",
+      "version": "1.0.3",
+      "author": "yanekyuk",
+      "description": "Clipboard history panel with search, pinning, and image previews."
+    },
+    {
+      "id": "linux-wallpaperengine-controller-Rb",
+      "name": "Linux WallpaperEngine Controller Rb",
+      "version": "1.3.1",
+      "author": "PaloMiku",
+      "description": "Control linux-wallpaperengine from Noctalia with per-screen wallpaper selection."
+    },
+    {
+      "id": "polkit-agent-Rb",
+      "name": "Polkit Agent Rb",
+      "version": "1.0.6",
+      "author": "Noctalia Team",
+      "description": "Provides a Polkit authentication agent."
+    },
+    {
+      "id": "power-options-Rb",
+      "name": "Opções de Energia Rb",
+      "version": "1.0.0",
+      "author": "Você",
+      "description": "Plugin para desligar, reiniciar ou sair da sessão"
+    },
+    {
+      "id": "arch-updater-Rb",
+      "name": "Archlinux Update Rb",
+      "version": "2.1.10",
+      "author": "Ast",
+      "description": "A plugin to manage updates on Arch"
+    },
+    {
+      "id": "usb-drive-manager-Rb",
+      "name": "USB Drive Manager Rb",
+      "version": "1.4.0",
+      "author": "hennifant",
+      "description": "Manage USB drives: detect, mount, unmount, safely eject, and browse files"
+    }
+  ]
+}

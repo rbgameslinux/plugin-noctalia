@@ -1,0 +1,89 @@
+{
+  "wallpapersFolder": "~/.local/share/Steam/steamapps/workshop/content/431960",
+  "iconColor": "none",
+  "enableExtraPropertiesEditor": true,
+  "defaultScaling": "fill",
+  "defaultClamp": "clamp",
+  "defaultFps": 30,
+  "defaultVolume": 100,
+  "defaultMuted": true,
+  "defaultAudioReactiveEffects": true,
+  "defaultNoAutomute": false,
+  "defaultDisableMouse": false,
+  "defaultDisableParallax": false,
+  "applyWallpaperColorsOnApply": false,
+  "wallpaperColorScreenshots": {},
+  "defaultNoFullscreenPause": false,
+  "defaultFullscreenPauseOnlyActive": false,
+  "showSidebarDescription": false,
+  "badgeOrder": [
+    "type",
+    "dynamic",
+    "music",
+    "reactive",
+    "approved",
+    "resolution",
+    "compatibility"
+  ],
+  "badgeEnabled": {
+    "type": true,
+    "dynamic": true,
+    "music": true,
+    "reactive": true,
+    "approved": true,
+    "resolution": true,
+    "compatibility": true
+  },
+  "autoApplyOnStartup": true,
+  "panelPageSize": 24,
+  "wallpaperScanCacheMinutes": 10,
+  "panelLastSelectedPath": "",
+  "screens": {
+    "DP-1": {
+      "path": "/home/rodrigo/.local/share/Steam/steamapps/workshop/content/431960/3163159332",
+      "scaling": "fill"
+    }
+  },
+  "wallpaperProperties": {
+    "1884932230": {
+      "schemecolor": "0,0,0"
+    },
+    "2142532648": {
+      "24h_style": "0",
+      "clock": "0",
+      "clock_bottom_left": "0",
+      "clock_bottom_right": "0",
+      "clock_size": "65",
+      "clock_top_left": "0",
+      "schemecolor": "13,24,19"
+    },
+    "3085471860": {
+      "audiobar": "1",
+      "barcolor": "106,200,230",
+      "chromaticversionbackround": "0",
+      "cursortrail": "0",
+      "cursortrailcolor": "0,1,1",
+      "fog": "1",
+      "particle": "1",
+      "particlecolor": "0,1,1",
+      "rain": "0",
+      "schemecolor": "69,84,108",
+      "speedoftherain": "1.23"
+    },
+    "3163159332": {
+      "schemecolor": "100,119,154"
+    },
+    "3563790700": {
+      "gametitle": "0",
+      "musicvolume": "0.5",
+      "schemecolor": "0,0,0"
+    }
+  },
+  "lastKnownGoodScreens": {
+    "DP-1": {
+      "path": "/home/rodrigo/.local/share/Steam/steamapps/workshop/content/431960/3163159332",
+      "scaling": "fill"
+    }
+  },
+  "runtimeRecoveryPending": false
+}

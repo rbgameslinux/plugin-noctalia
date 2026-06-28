@@ -1,0 +1,62 @@
+{
+  "notifications": {
+    "mounted": "Mounted",
+    "mount-failed": "Mount failed",
+    "unmounted": "Unmounted",
+    "unmount-failed": "Unmount failed",
+    "ejected": "Ejected",
+    "eject-failed": "Eject failed",
+    "unmount-all": "Unmounted all drives",
+    "eject-all": "Ejected all drives",
+    "path-copied": "Path copied"
+  },
+  "bar": {
+    "tooltip-empty": "No USB drives connected",
+    "tooltip-count": "%1 drive(s) mounted"
+  },
+  "device": {
+    "mounted": "Mounted",
+    "used": "{size} used",
+    "free": "{size} free",
+    "loading": "Loading...",
+    "action-open": "Open",
+    "action-copy-path": "Copy path",
+    "action-mount": "Mount",
+    "action-unmount": "Unmount",
+    "action-eject": "Eject"
+  },
+  "context": {
+    "open": "Open panel",
+    "refresh": "Refresh",
+    "unmount-all": "Unmount all",
+    "eject-all": "Eject all",
+    "settings": "Settings"
+  },
+  "panel": {
+    "title": "USB Drives",
+    "refresh": "Refresh",
+    "empty": "No USB drives connected",
+    "empty-hint": "Plug in a USB drive to get started",
+    "unmount-all": "Unmount all",
+    "eject-all": "Eject all"
+  },
+  "settings": {
+    "section-bar": "Bar Widget",
+    "hide-when-empty": "Hide when empty",
+    "hide-when-empty-desc": "Hide the bar icon when no USB drives are connected",
+    "show-badge": "Show badge",
+    "show-badge-desc": "Show a badge with the count of mounted drives",
+    "section-behavior": "Behavior",
+    "auto-mount": "Auto mount",
+    "auto-mount-desc": "Automatically mount newly connected USB drives",
+    "notifications": "Notifications",
+    "notifications-desc": "Show toast notifications for drive events",
+    "section-browser": "File Browser",
+    "file-browser": "File browser",
+    "file-browser-desc": "Select the file browser to open mounted drives",
+    "terminal": "Terminal emulator",
+    "terminal-desc": "Select the terminal emulator for terminal-based file browsers",
+    "icon-color": "Icon color",
+    "icon-color-desc": "Select the color of the USB icon in the bar"
+  }
+}

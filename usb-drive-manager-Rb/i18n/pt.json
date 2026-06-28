@@ -1,0 +1,62 @@
+{
+  "notifications": {
+    "mounted": "Montado",
+    "mount-failed": "Falha ao montar",
+    "unmounted": "Desmontado",
+    "unmount-failed": "Falha ao desmontar",
+    "ejected": "Ejetado",
+    "eject-failed": "Falha ao ejetar",
+    "unmount-all": "Todas as unidades desmontadas",
+    "eject-all": "Todas as unidades ejetadas",
+    "path-copied": "Caminho copiado"
+  },
+  "bar": {
+    "tooltip-empty": "Nenhum pendrive conectado",
+    "tooltip-count": "%1 unidade(s) montada(s)"
+  },
+  "device": {
+    "mounted": "Montado",
+    "used": "{size} usado",
+    "free": "{size} livre",
+    "loading": "Carregando...",
+    "action-open": "Abrir",
+    "action-copy-path": "Copiar caminho",
+    "action-mount": "Montar",
+    "action-unmount": "Desmontar",
+    "action-eject": "Ejetar"
+  },
+  "context": {
+    "open": "Abrir painel",
+    "refresh": "Atualizar",
+    "unmount-all": "Desmontar tudo",
+    "eject-all": "Ejetar tudo",
+    "settings": "Configurações"
+  },
+  "panel": {
+    "title": "Unidades USB",
+    "refresh": "Atualizar",
+    "empty": "Nenhum pendrive conectado",
+    "empty-hint": "Conecte um pendrive para começar",
+    "unmount-all": "Desmontar tudo",
+    "eject-all": "Ejetar tudo"
+  },
+  "settings": {
+    "section-bar": "Widget da Barra",
+    "hide-when-empty": "Ocultar quando vazio",
+    "hide-when-empty-desc": "Ocultar o ícone da barra quando nenhum pendrive estiver conectado",
+    "show-badge": "Mostrar selo",
+    "show-badge-desc": "Mostrar um selo com a quantidade de unidades montadas",
+    "section-behavior": "Comportamento",
+    "auto-mount": "Montagem automática",
+    "auto-mount-desc": "Montar automaticamente pendrives recém-conectados",
+    "notifications": "Notificações",
+    "notifications-desc": "Mostrar notificações para eventos de unidades",
+    "section-browser": "Gerenciador de Arquivos",
+    "file-browser": "Gerenciador de arquivos",
+    "file-browser-desc": "Selecione o gerenciador de arquivos para abrir unidades montadas",
+    "terminal": "Emulador de terminal",
+    "terminal-desc": "Selecione o emulador de terminal para navegadores baseados em terminal",
+    "icon-color": "Cor do ícone",
+    "icon-color-desc": "Selecione a cor do ícone USB na barra"
+  }
+}

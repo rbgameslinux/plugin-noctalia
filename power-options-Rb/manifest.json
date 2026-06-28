@@ -1,0 +1,26 @@
+{
+  "id": "power-options-Rb",
+  "name": "Opções de Energia Rb",
+  "version": "1.0.0",
+  "minNoctaliaVersion": "4.0.0",
+  "author": "Você",
+  "license": "MIT",
+  "repository": "",
+  "description": "Plugin para desligar, reiniciar ou sair da sessão",
+  "tags": [
+    "Utility",
+    "Bar",
+    "Panel",
+    "System"
+  ],
+  "entryPoints": {
+    "barWidget": "BarWidget.qml",
+    "panel": "Panel.qml"
+  },
+  "dependencies": {
+    "plugins": []
+  },
+  "metadata": {
+    "defaultSettings": {}
+  }
+}
